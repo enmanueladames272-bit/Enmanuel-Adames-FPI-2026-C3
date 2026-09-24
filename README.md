@@ -1,2 +1,2 @@
-# Enmanuel-Adames-FPI-2026-C3
-Repositorio de las cales de Fundamentos de Programcion en C
+# Enmanuel_Adames_FPI_2026_C3
+Repositorio de las clases de Fundamentos de Programcion en C
